@@ -40,7 +40,6 @@ To build a classification model using Random Forest and evaluate its performance
 
 ## 📁 Files
 - `education_rf_model.R` – Full R script for training and evaluating the model
-- *(Optional)* `education_roc_plot.png` – ROC visual (can be added manually)
 - `README.md` – This documentation
 
 ---
